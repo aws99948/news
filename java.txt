@@ -6,4 +6,6 @@ class Simple{
 class samantha
 {
    public static void main(string args[]){
-}  
+} 
+}
+} 
